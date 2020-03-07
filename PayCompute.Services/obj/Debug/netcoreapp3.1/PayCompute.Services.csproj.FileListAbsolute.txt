@@ -1,0 +1,13 @@
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Entity.dll
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Persistance.dll
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.csprojAssemblyReference.cache
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.AssemblyInfoInputs.cache
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.AssemblyInfo.cs
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Services.deps.json
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Services.dll
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Services.pdb
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Entity.pdb
+C:\Users\jadav\source\repos\PayCompute.Services\bin\Debug\netcoreapp3.1\PayCompute.Persistance.pdb
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.csproj.CopyComplete
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.dll
+C:\Users\jadav\source\repos\PayCompute.Services\obj\Debug\netcoreapp3.1\PayCompute.Services.pdb
