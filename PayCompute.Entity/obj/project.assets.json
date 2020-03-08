@@ -3955,11 +3955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "projectName": "PayCompute.Entity",
-      "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "packagesPath": "C:\\Users\\jadav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\obj\\",
+      "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jadav\\AppData\\Roaming\\NuGet\\NuGet.Config",

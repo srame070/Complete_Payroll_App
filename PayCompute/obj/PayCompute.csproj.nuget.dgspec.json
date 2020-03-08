@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jadav\\source\\repos\\PayCompute\\PayCompute.csproj": {}
+    "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute\\PayCompute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+    "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj",
         "projectName": "PayCompute.Entity",
-        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj",
         "packagesPath": "C:\\Users\\jadav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\obj\\",
+        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
+    "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj",
         "projectName": "PayCompute.Persistance",
-        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj",
+        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj",
         "packagesPath": "C:\\Users\\jadav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj": {
+    "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\PayCompute.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj",
+        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\PayCompute.Services.csproj",
         "projectName": "PayCompute.Services",
-        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj",
+        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\PayCompute.Services.csproj",
         "packagesPath": "C:\\Users\\jadav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\obj\\",
+        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,11 +169,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj"
               },
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\jadav\\source\\repos\\PayCompute\\PayCompute.csproj": {
+    "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute\\PayCompute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute\\PayCompute.csproj",
+        "projectUniqueName": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute\\PayCompute.csproj",
         "projectName": "PayCompute",
-        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute\\PayCompute.csproj",
+        "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute\\PayCompute.csproj",
         "packagesPath": "C:\\Users\\jadav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute\\obj\\",
+        "outputPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jadav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,14 +238,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Entity\\PayCompute.Entity.csproj"
               },
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Persistance\\PayCompute.Persistance.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Persistance\\PayCompute.Persistance.csproj"
               },
-              "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj": {
-                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj"
+              "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\PayCompute.Services.csproj": {
+                "projectPath": "C:\\Users\\jadav\\source\\repos\\PayCompute application\\PayCompute.Services\\PayCompute.Services.csproj"
               }
             }
           }
