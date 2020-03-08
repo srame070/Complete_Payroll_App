@@ -7,6 +7,7 @@ namespace Paycompute.Entity
 {
     public class Employee
     {
+       // Employee table columns added through employee class properties.
         public int Id { get; set; }
         [Required]
         public string EmployeeNo { get; set; }
