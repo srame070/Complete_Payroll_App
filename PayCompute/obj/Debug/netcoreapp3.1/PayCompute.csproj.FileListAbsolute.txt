@@ -95,3 +95,13 @@ C:\Users\jadav\source\repos\PayCompute\obj\Debug\netcoreapp3.1\staticwebassets\P
 C:\Users\jadav\source\repos\PayCompute\obj\Debug\netcoreapp3.1\staticwebassets\PayCompute.StaticWebAssets.xml
 C:\Users\jadav\source\repos\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.dll
 C:\Users\jadav\source\repos\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.pdb
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.TagHelpers.output.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.csprojAssemblyReference.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.RazorAssemblyInfo.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.RazorAssemblyInfo.cs
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.AssemblyInfoInputs.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute\obj\Debug\netcoreapp3.1\PayCompute.AssemblyInfo.cs

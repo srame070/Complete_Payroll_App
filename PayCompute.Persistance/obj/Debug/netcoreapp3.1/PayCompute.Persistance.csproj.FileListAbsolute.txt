@@ -11,3 +11,16 @@ C:\Users\jadav\source\repos\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCo
 C:\Users\jadav\source\repos\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.csproj.CopyComplete
 C:\Users\jadav\source\repos\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.dll
 C:\Users\jadav\source\repos\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.pdb
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Persistance.deps.json
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Persistance.runtimeconfig.json
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Persistance.runtimeconfig.dev.json
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Persistance.dll
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Persistance.pdb
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Entity.dll
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\bin\Debug\netcoreapp3.1\PayCompute.Entity.pdb
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.csprojAssemblyReference.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.AssemblyInfoInputs.cache
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.AssemblyInfo.cs
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.csproj.CopyComplete
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.dll
+C:\Users\jadav\source\repos\PayCompute application\PayCompute.Persistance\obj\Debug\netcoreapp3.1\PayCompute.Persistance.pdb
