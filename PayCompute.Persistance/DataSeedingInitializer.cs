@@ -19,12 +19,25 @@ namespace Paycompute.Persistence
             }
 
             //Create Admin User
-            if (userManager.FindByEmailAsync("everest@codewitheverest.com").Result == null)
+           /* if (userManager.FindByEmailAsync("everest@codewitheverest.com").Result == null)
             {
                 IdentityUser user = new IdentityUser
                 {
                     UserName = "everest@codewitheverest.com",
                     Email = "everest@codewitheverest.com"
+                };
+                IdentityResult identityResult = userManager.CreateAsync(user, "Password1").Result;
+                if (identityResult.Succeeded)
+                {
+                    userManager.AddToRoleAsync(user, "Admin").Wait();
+                }
+            }*/
+            if (userManager.FindByEmailAsync("sagj06@gmail.com").Result == null)
+            {
+                IdentityUser user = new IdentityUser
+                {
+                    UserName = "sagj06@gmail.com",
+                    Email = "sagj06@gmail.com"
                 };
                 IdentityResult identityResult = userManager.CreateAsync(user, "Password1").Result;
                 if (identityResult.Succeeded)
