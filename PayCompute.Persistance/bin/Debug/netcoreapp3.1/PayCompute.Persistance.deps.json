@@ -18,7 +18,8 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.1",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.1",
-          "PayCompute.Entity": "1.0.0"
+          "PayCompute.Entity": "1.0.0",
+          "Rotativa.Core": "2.0.2.1"
         },
         "runtime": {
           "PayCompute.Persistance.dll": {}
@@ -631,6 +632,14 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "12.0.0.0",
             "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Rotativa.Core/2.0.2.1": {
+        "runtime": {
+          "lib/net45/Rotativa.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -1273,7 +1282,8 @@
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.2",
           "Microsoft.AspNetCore.Identity.UI": "3.0.0",
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Rotativa.Core": "2.0.2.1"
         },
         "runtime": {
           "PayCompute.Entity.dll": {}
@@ -1741,6 +1751,13 @@
       "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
       "path": "newtonsoft.json/12.0.2",
       "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Rotativa.Core/2.0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XtMnJ4ym1KClra0rjUrNDRXFoOA0UGzeK68H7LIo0l7m5gBT6ncBuIfXc3cqCtR6ubpDqVSg1tAkJF5PG9dqww==",
+      "path": "rotativa.core/2.0.2.1",
+      "hashPath": "rotativa.core.2.0.2.1.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
